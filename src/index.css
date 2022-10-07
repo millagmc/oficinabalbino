@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family:300 11px/1.4 'Helvetica Neue', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  display: block;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html{
+  font-size: 72.5%;
+}
