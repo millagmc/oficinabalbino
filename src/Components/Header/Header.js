@@ -8,8 +8,8 @@ const Header = () => {
             <img src={blacklogo} alt='Oficina Balbino Logo' className='img--header'/>
                 <ul>
                     <li>Contato</li>
-                    <li>Ofertas e Promoções </li>
                     <li>Faça seu orçamento</li>
+                    <li>Ofertas e Promoções </li>
                     <li>Endereço</li>
                   
 
@@ -18,5 +18,4 @@ const Header = () => {
 
     </div>);
 }
- 
 export default Header;
