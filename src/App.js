@@ -5,6 +5,7 @@ import LandingPage from './Components/Landing/Landing';
 function App() {
   return (
     <div className="App">
+      <Header/>
       <LandingPage></LandingPage>
     </div>
   );
