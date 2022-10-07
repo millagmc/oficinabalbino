@@ -1,9 +1,10 @@
 import './App.scss';
+import Header from './Components/Header/Header';
 
 function App() {
   return (
     <div className="App">
-     <h1>Oficina Balbino Test MVP</h1>
+     <Header></Header>
     </div>
   );
 }
