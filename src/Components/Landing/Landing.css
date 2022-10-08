@@ -4,8 +4,8 @@
 }
 
 .landing--container{
+    height: 80vh;
     color: white;
-    height: 100vh;
     text-align: center;
     align-content: center;
     display: flex;
